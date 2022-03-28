@@ -1,13 +1,13 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [Sequent - CQRS & event sourcing framework for Ruby](README.md)
 
-## The Company
+## 概况
 
-* [Vision and Values](the-company/vision-and-values.md)
-* [Meet the Team!](the-company/meet-the-team.md)
+* [Sequent 4.0](gai-kuang/sequent-4.0.md)
+* [Meet the Team!](gai-kuang/meet-the-team.md)
 
-## The Formal Stuff
+## 介绍
 
-* [Requesting Time Off](the-formal-stuff/requesting-time-off.md)
-* [Filing Expenses](the-formal-stuff/filing-expenses.md)
+* [1. 入门指南](jie-shao/1.-ru-men-zhi-nan.md)
+* [Filing Expenses](jie-shao/filing-expenses.md)
