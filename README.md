@@ -1,10 +1,9 @@
 ---
-description: '2222'
 coverY: 0
 ---
 
-# Welcome!
+# Sequent - Ruby事件驱动框架
 
-## Welcome aboard!
+## 英文原文
 
-Welcome to the company wiki! Here you'll find everything you need to know about the company.
+[https://www.sequent.io/](https://www.sequent.io)

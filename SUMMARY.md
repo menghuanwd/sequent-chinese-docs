@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Sequent - CQRS & event sourcing framework for Ruby](README.md)
+* [Sequent - Ruby事件驱动框架](README.md)
 
 ## 概况
 
