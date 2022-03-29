@@ -17,13 +17,15 @@ coverY: 0
 
 ## 教程
 
-{% hint style="info" %}
+{% hint style="success" %}
 **有下列几个可供选择的教程**
 {% endhint %}
 
 ### 1. 开始
 
 对于首次了解Sequent, [入门指南](../jie-shao/1.-ru-men-zhi-nan.md)是您的理想之选
+
+
 
 ### 2. 领域建模
 
