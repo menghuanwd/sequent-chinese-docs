@@ -9,7 +9,7 @@
 ## 介绍
 
 * [1. 入门指南](jie-shao/1.-ru-men-zhi-nan.md)
-* [2. 领域建模](jie-shao/2.-ling-yu-jian-mo.md)
+* [2. 用Sequent来建你的领域模型](jie-shao/2.-yong-sequent-lai-jian-ni-de-ling-yu-mo-xing.md)
 * [3. 构建一个web应用](jie-shao/3.-gou-jian-yi-ge-web-ying-yong.md)
 * [4. 完成web应用](jie-shao/4.-wan-cheng-web-ying-yong.md)
 * [5. Rails 集成 Sequent](jie-shao/5.-rails-ji-cheng-sequent.md)
